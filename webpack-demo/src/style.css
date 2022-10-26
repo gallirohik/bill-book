@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("./roboto.ttf") format("ttf"), url("./abeezee.ttf") format("ttf");
+  font-weight: 600;
+  font-style: "regular";
+}
+
+.hello {
+  color: red;
+  font-family: "Roboto";
+  background: url("./icon.webp");
+}
